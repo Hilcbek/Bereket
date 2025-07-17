@@ -1,6 +1,6 @@
 # 🚀 **Bereket Alemayehu** — Full-Stack Developer
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20👋%20I'm%20Bereket&fontSize=35&fontAlign=50&fontColor=fff)
+https://media.licdn.com/dms/image/v2/D4E16AQHV0pt7bMEF7g/profile-displaybackgroundimage-shrink_350_1400/B4EZcG7CBhHcAY-/0/1748167828620?e=1758153600&v=beta&t=MkqcBS4x7RvPlNWupCEtJxXQJZN3QOxQMb1efXP-P1Q
 
 🌍 **Portfolio** 👉 [bereketalemayehu.vercel.app](https://bereketalemayehu.vercel.app/)
 
